@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: NensdeLlum
+        psr4_prefix: NensdeLlum
+        src_path: app
